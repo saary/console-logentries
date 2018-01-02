@@ -1,5 +1,30 @@
 {
   "dependencies": {
     "node-logentries": "^0.1.4"
-  }
+  },
+  "name": "@saary/console-logentries",
+  "description": "Direct console log to logentries",
+  "version": "0.2.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saary/console-logentries.git"
+  },
+  "keywords": [
+    "console",
+    "logentries"
+  ],
+  "author": "saary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saary/console-logentries/issues"
+  },
+  "homepage": "https://github.com/saary/console-logentries#readme"
 }
