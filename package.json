@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-logentries": "^0.1.4"
+  }
+}
